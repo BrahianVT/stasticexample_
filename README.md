@@ -1,0 +1,1 @@
+# stasticexample_
